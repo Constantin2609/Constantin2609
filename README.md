@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning Python, and, hence... 
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ... teaching me python:-)
-- 📫 How to reach me: through e-mail: gioev.k1@gmail.com, - but, please, not with ad rubbish
+- 📫 How to reach me: through e-mail: gioev.k1@gmail.com, - but, please, not with the ad rubbish
 
 <!---
 Constantin2609/Constantin2609 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
